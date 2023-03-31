@@ -1,0 +1,100 @@
+body{    font-family: 'Roboto', sans-serif;
+}
+.heading{
+    text-align: center;
+    /* justify-content: center; */
+    font-weight: bold;
+    color:#00325F;
+    font-size: 500%;
+}
+
+/* .box1,.box2,.box3,.box4,.box5{
+    display: flex;
+
+} */
+.box1{
+    background: #00325F;
+    font-size: 40px; 
+    padding: 30px; 
+    margin: 20px;
+    margin-left: 5%;
+    display: block;
+    width: 420px;
+    height: 130px;
+    float:left;
+    box-shadow: -18px -18px #58C4D6
+}
+
+.box2{
+    background:  #00325F;
+    font-size: 40px; 
+    padding: 30px; 
+    margin: 20px;
+    margin-right: 5%;
+    display: block;
+    width: 420px;
+    height: 130px;
+    float: right;
+    box-shadow: -18px -18px #58C4D6
+
+
+
+}
+
+.box3{
+    background:  #00325F;
+    font-size: 40px; 
+    padding: 30px; 
+    margin: 20px;
+    margin-left: 5%;
+    margin-top: 100px;
+    display: block;
+    width: 420px;
+    height: 130px;
+    float:left;
+    box-shadow: -18px -18px #58C4D6
+
+
+}
+
+.box4{
+    background:  #00325F;
+    font-size: 40px; 
+    padding: 30px; 
+    margin: 20px;
+    margin-right: 5%;
+    margin-top: 100px;
+    display:block;
+    width: 420px;
+    height: 130px;
+    float:right;
+    box-shadow: -18px -18px #58C4D6
+
+
+}
+
+.box5{
+    background: #00325F;
+    font-size: 40px; 
+    padding: 30px; 
+    margin: 20px;
+    margin-left: 35.5%;
+    margin-top: 50px;
+    display: block;
+    width: 420px;
+    height: 130px;
+    float:left;
+    box-shadow: -18px -18px #58C4D6
+
+}
+
+.box-text{
+    color: antiquewhite;
+    margin-left: 80px;
+    margin-top: 0;
+    width: 70%;
+    text-align:center;
+    font-size: 110%;
+
+
+}

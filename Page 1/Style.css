@@ -1,0 +1,173 @@
+body{
+  font-family: 'Roboto', sans-serif;
+
+}
+.container{
+    width: 1490px;
+    height:800px;
+    position: relative;
+}
+
+.Image{
+    width: 1660px;
+    height: 833px;
+    object-fit: cover;
+    object-position: 170px 0px;
+    margin-left: -170px;
+    z-index: -1;
+    position: absolute;    
+}   
+.navbar{
+    
+    position: relative;
+    display: inline;
+    list-style-type: none;
+    top:65px;
+    left:745px;
+    padding: 0;
+}
+.li{
+    color: white;
+    padding: 18px;
+    font-size: 24px;
+    display: inline;
+
+}
+.logo{
+    color: white;
+    font-size: large;
+    position: absolute;
+    display:inline ;
+    top: 55px;
+    left: 145px;
+
+} 
+.logo h1{
+  margin: 0; 
+  font-size: 300%;
+}
+.logo h2{
+   margin:0; 
+  font-size:150%; 
+  font-weight: 350;
+  
+
+}
+.text{
+    font-weight: bolder;
+    font-size: 450%;
+    color: white;
+    position: absolute;
+    top:280px;
+    left: 100px;
+    display: inline;
+}
+.Course-btn{
+    background-color: #58C4D6;
+    position: absolute;
+    display: inline;
+    top:610px;
+    left:100px;
+    padding: 30px;
+    border-radius: 50px;
+    font-size: 150%;
+    border: 0px;
+    color: white;
+    width: 15%;
+}
+.btn2{
+    background-color: #58C4D6;
+    position: absolute;
+    display: inline;
+    top:610px;
+    left:370px;
+    padding: 30px;
+    border-radius: 50px;
+    font-size: 150%;
+    border: 0px;
+    color: white;
+    width: 15%;
+}
+
+.banner {
+    position: absolute;
+    background-color: #11315C;;
+    padding: 0px;
+    display: inline-flex;
+    top:520px;
+    left:775px;
+    width: 650px;
+    height: 275px;
+    align-items: center;
+  }
+  .banner__close-btn {
+    position: absolute;
+    top: 0; 
+    right: 0;
+    background-color: transparent;
+    color: white;
+    font-size: 150%;
+    border: 0;
+}
+  .banner__left{
+    background-color: #FFB339;
+    color: white;
+    font-size: 1100%;
+    font-weight: 300;
+    width: 150px;
+    height: 100%;
+    text-align: center;
+    line-height: 280px;
+    
+}
+  .banner__right {
+    float: right;
+    width: 500px;
+    text-align: center;
+    padding: 0px;
+  }
+  .banner__right h1{
+    position: relative;
+    color: #FFB339;
+    font-size: 200%;
+    margin: 0;
+    top: -10px;
+  }
+  .banner__right h2{
+    color: white;
+    position: relative;   
+     font-weight: 300;
+    width: 70%;
+    top: -7px;
+    text-align: center;
+    margin-left: 15%; 
+ }
+  .banner__email {
+    position: relative;   
+    display: block;
+    width: 400px;
+    padding: 10px;
+    border-radius: 50px;
+    height: 30px;
+    font-size: 150%;
+    top: -6px;
+    left: 44px;
+    
+  }
+  ::placeholder{
+    color: lightgray;
+  }
+  .Data_link{
+    position: absolute;   
+    color: white;
+    font-size: 20px;
+    bottom:8px;
+    left: 260px;
+}
+.lock_icon{
+    position: absolute;   
+    bottom: 8px;
+    left:220px;
+
+
+}

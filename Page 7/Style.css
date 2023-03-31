@@ -1,0 +1,40 @@
+body{
+    background-color:  #11315C;
+    font-family: 'Roboto', sans-serif;
+
+}
+.heading{
+    font-weight: 500;
+    color: white;
+    text-align: center;
+    font-size: 350%;
+    margin-top: 90px;
+}
+
+.photo{
+    width: 255px;
+    height: 255px;
+    object-fit: cover;
+    border-radius: 5000px;
+    margin-left: 41%;
+
+}
+.container{
+    margin-left: 25%;
+    margin-right: 25%;
+    display:block;
+    text-align: center;
+
+}
+.profile{
+    color:#FB6031;
+    font-size: 190%;
+    font-weight: 600;
+    margin-top: 6%;
+}
+.info{
+    font-size: 180%;
+    font-weight:400;
+    color: white;
+
+}
